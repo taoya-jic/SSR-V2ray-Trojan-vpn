@@ -147,36 +147,26 @@ JetFast | 极快代理 : 一个月5G,商店下单
 
 1) pmsub
 100多条线路，ss+trojan+vmess等
-
-通用订阅：https://sub.pmsub.me/base64
-
-clash订阅地址(直接复制粘贴到clash订阅下载里面)： https://sub.pmsub.me/clash.yaml
+clash订阅地址(直接复制粘贴到clash订阅下载里面)
 
 2) fovi
-https://tz.fovi.tk/
+
 
 3) sharecentre
-12条，vmess https://sub.sharecentre.online/sub
-
-https://git.io/emzclash
-
-https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18
+12条，vmess 
 
 4）小三VPN
-安卓APP ，“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池: https://github.com/sharmajv/vpn
+安卓APP ，“不收费，不注册，不限速，不限流，不看广告不流氓，只想安静做个VPN”。安卓软件采用Clash套壳，启动后抓包免费节点池.
 
 5) 橘子公益云订阅链接
-https://sub.5112233.xyz/auto
-
 已适配自适应订阅内容:v2rayN 、 clash.meta（Clash Nyanpasu，clash-verge，ClashX Meta）、 sing-box（SFI）
 
 6) warp
-https://github.com/vvbbnn00/WARP-Clash-API
 
 该项目可以让你通过订阅的方式使用WARP+，支持Clash、Shadowrocket等客户端。项目内置了 刷取WARP+流量的功能，可以让你的WARP+流量不再受限制（每18秒可获得1GB流量），同时， 配备了IP选优功能。支持Docker compose一键部署，无需额外操作，即可享受你自己的WARP+私 有高速节点！
 
 7) bocchi2b
-https://links.bocchi2b.top/clash :另外一个免费clash订阅，100+节点，有vless节点，需要clash meta内核的clash 比如clash verge rev、clash-nyanpasu
+另外一个免费clash订阅，100+节点，有vless节点，需要clash meta内核的clash 比如clash verge rev、clash-nyanpasu
 
 8) chromego_merge
 一个分享免费订阅合集的项目
