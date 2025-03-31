@@ -205,47 +205,29 @@ edCloud网链接1 ：vmess，深港专线机场。高性价比冷门节点机场
 
 ### 六、学术镜像：
 
-https://www.ooopn.com/tool/ggscholar/
+使用学术搜索引擎
 
-http://dir.scmor.com/
+Google Scholar
 
-### 七、github代理
+Semantic Scholar
 
-临时应急下载 github 文件使用：
+BASE
 
-https://git.814560.xyz/
+CORE
 
-gitcdn
+学术论文免费获取方法
 
-GitHub Proxy 最新地址发布页 https://ghproxy.link
+通过 Sci-Hub（需查找最新可用域名）
 
-https://gh.api.99988866.xyz
+访问 Library Genesis (LibGen)
 
-https://ghp.ml1.one
+使用 ArXiv 获取预印本论文
 
-https://doget.nocsdn.com
+高校/机构 VPN
 
-https://ghgo.xyz
+如果你所在的高校或机构提供 VPN，可以通过其访问订阅的数据库，如 IEEE、Springer、Elsevier、JSTOR 等。
 
-https://slink.ltd
-
-https://ghps.cc
-
-https://gh-proxy.com
-
-https://ghproxy.cc
-
-https://cf.ghproxy.cc
-
-https://github.tmby.shop
-
-https://gh-proxy.ygxz.in
-
-https://ghproxy.net
-
-https://ghproxy.cn )
-
-### 八、其它博客
+### 七、其它博客
 
 自用付费稳定高速国外ssr-v2ray-trojan机场推荐，需要付费机场的可以从这里挑选
 
